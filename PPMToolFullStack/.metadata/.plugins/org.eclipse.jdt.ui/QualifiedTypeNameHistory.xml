@@ -11,10 +11,13 @@
 <fullyQualifiedTypeName name="org.springframework.data.repository.CrudRepository"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="io.agileintelligence.ppmtool.repositories.ProjectRepository"/>
-<fullyQualifiedTypeName name="io.agileintelligence.ppmtool.domain.Project"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
 <fullyQualifiedTypeName name="io.agileintelligence.ppmtool.services.ProjectService"/>
+<fullyQualifiedTypeName name="io.agileintelligence.ppmtool.domain.Project"/>
+<fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+<fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
 </qualifiedTypeNameHistroy>
