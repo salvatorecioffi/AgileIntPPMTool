@@ -17,7 +17,16 @@
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
 <fullyQualifiedTypeName name="io.agileintelligence.ppmtool.services.ProjectService"/>
 <fullyQualifiedTypeName name="io.agileintelligence.ppmtool.domain.Project"/>
-<fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
 <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotBlank"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
+<fullyQualifiedTypeName name="javax.validation.Valid"/>
+<fullyQualifiedTypeName name="org.springframework.validation.BindingResult"/>
+<fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.DecimalMin.List"/>
+<fullyQualifiedTypeName name="org.springframework.validation.FieldError"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

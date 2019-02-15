@@ -77,7 +77,6 @@ INDEX VERSION 1.131+C:\Users\s.cioffi\Desktop\PPMToolFullStackReact+Java\PPMTool
 72535324.index
 1394848873.index
 2817506021.index
-3774133819.index
 1326221957.index
 3700324605.index
 1566778569.index
